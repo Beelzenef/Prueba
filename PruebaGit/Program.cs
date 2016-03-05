@@ -7,6 +7,8 @@ namespace PruebaGit
 		public static void Main (string[] args)
 		{
 			Console.WriteLine ("Hola caracola");
+            Console.WriteLine("Aportacion Elena Guzmán Blanco...");
+            Console.ReadLine();
 		}
 	}
 }
